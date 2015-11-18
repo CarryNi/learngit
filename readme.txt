@@ -1,4 +1,5 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL
-Git is awesome.
-you are  sooooooooooo stupid
+Git is awesome
+u are  sooooooooooo stupid!!!!
+really?
